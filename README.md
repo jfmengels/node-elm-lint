@@ -1,3 +1,8 @@
+# DEPRECATION NOTICE
+
+`elm-lint` has been deprecated in favor of [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/latest/).
+You can find the CLI for `elm-review` at https://www.npmjs.com/package/elm-review, and install it using `npm install elm-review`.
+
 # elm-lint CLI
 
 ![](https://travis-ci.com/jfmengels/node-elm-lint.svg?branch=master)
